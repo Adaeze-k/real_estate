@@ -1,7 +1,7 @@
 <template>
   <UserHeader/>
   <router-view/>
-   <UserFooter/>
+  <UserFooter/>
 </template>
 
 <style>
