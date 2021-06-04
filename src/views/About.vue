@@ -1,5 +1,19 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div >
+      <div class="intro">
+        <h1>Here Comes The About</h1>
+      </div>
+      <div class="py-5">
+        <p>Am Just Testing ooo Dont Mind The Color focus on just the navbar and the footer</p>
+      </div>
   </div>
 </template>
+
+<style scoped>
+.intro{
+  background: linear-gradient(to right bottom, #380064 50%, #FFD700);
+  min-height: 50vh;
+  padding-top: 20vh;
+  color: #fff;
+}
+</style>
