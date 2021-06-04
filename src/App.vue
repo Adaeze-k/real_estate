@@ -1,6 +1,7 @@
 <template>
   <UserHeader/>
   <router-view/>
+   <UserFooter/>
 </template>
 
 <style>
@@ -9,10 +10,15 @@
 
 <script>
 import UserHeader from '@/components/UserHeader.vue'
+import UserFooter from '@/components/UserFooter.vue'
 export default {
   name: 'App',
   components: {
-       UserHeader
+       UserHeader,
+       UserFooter
   }
 }
+
+
+
 </script>
