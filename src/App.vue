@@ -19,6 +19,33 @@ a:hover{
 .gold-text{
   color: #FFD700 !important;
 }
+.purple-text{
+  color: #380064 !important;
+}
+.btn-orange{
+ background: #FFD700 !important;
+  color: #380064 !important
+}
+.font-weight-bold{
+  font-weight: 900;
+}
+.section-title{
+  background-color: #380064 !important;
+  color: #fff;
+  font-weight: 900 !important;
+}
+.property-data h6{
+  margin: 0;
+  padding: 0;
+}
+.property-data .title{
+  border-bottom: 1px solid  #380064;
+}
+.property-img{
+  height: 200px;
+  overflow: hidden;
+}
+
 
 </style>
 
