@@ -19,7 +19,7 @@
                         <i class="fas fa-mountain fa-4x"></i>
                     </div>
                 
-                    <h3 class="my-2 font-weight-bold">land </h3>
+                    <h3 class="my-2 font-weight-bold">Land </h3>
                 </div>
             </div>
             <div class="col-md-3 col-6 mb-3">
@@ -27,7 +27,7 @@
                     <div>
                         <i class="fas fa-home fa-4x"></i>
                     </div>
-                    <h3 class="my-2 font-weight-bold ">houses </h3>
+                    <h3 class="my-2 font-weight-bold ">Houses </h3>
                 </div>
             </div>
             <div class="col-md-3 col-6 mb-3">
@@ -35,7 +35,7 @@
                     <div>
                         <i class="fas fa-landmark fa-4x"></i>
                     </div>
-                    <h3 class="my-2 font-weight-bold">joint ventures</h3>
+                    <h3 class="my-2 font-weight-bold">Joint Ventures</h3>
                 </div>
             </div>
           </div>

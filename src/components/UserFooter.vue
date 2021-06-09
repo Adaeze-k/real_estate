@@ -7,7 +7,7 @@
 					<img src="@/assets/logo.png" class="img-fluid">
 				</div>
 				<p class="text-justify text-muted">
-					Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magni i corporis aperiam, dolores at necessitatibus distinctio quaerat.
+					 Our mission is to provide an outstanding level of service, excellence and expertise in the real estate market to our clients.
 				</p>
 			</div>
 			<div class="col-md-5">
@@ -54,13 +54,13 @@
 				<div class="mt-sm-5 ">
 					<h5 class="gold-text  pb-3">Contact Us</h5>
 					<p>
-						<i class="fas fa-home me-2"></i>Billionaire Realtors , Fill the company address
+						<i class="fas fa-home me-2"></i>Billionaire Realtors suite 0017 KINGFEM GA247 Mall, Mabushi Ahmadu Bello Way.
 					</p>
 					<p>
-						<i class="fas fa-phone me-2"></i> +234 810 6698 635
+						<i class="fas fa-phone me-2"></i> +234 808 111 6334
 					</p>
 					<p>
-						<i class="fas fa-envelope me-2"></i> info@domainname.com
+						<i class="fas fa-envelope me-2"></i> info@billionairerlts.com
 					</p>
 
 				</div>
