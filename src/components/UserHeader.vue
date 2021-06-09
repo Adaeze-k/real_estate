@@ -17,16 +17,16 @@
 						<router-link to="/" exact-active-class="active" class="nav-link" aria-current="page" >Home </router-link>
 					</li>
 					<li class="nav-item">
-						<router-link to="/"  exact-active-class="active" class="nav-link " aria-current="page" >Properties </router-link>
+						<router-link to="/properties"  exact-active-class="active" class="nav-link " aria-current="page" >Properties </router-link>
 					</li>
 					<li class="nav-item">
 						<router-link to="/about"  exact-active-class="active" class="nav-link " aria-current="page" >About Us  </router-link>
 					</li>
 					<li class="nav-item">
-						<router-link to="/"  exact-active-class="active" class="nav-link " aria-current="page">Blog </router-link>
+						<a target="_blank" href="#" class="nav-link " aria-current="page">Blog </a>
 					</li>
 					<li class="nav-item">
-						<router-link to="/"  exact-active-class="active" class="nav-link " aria-current="page" >Contact Us </router-link>
+						<router-link to="/contact"  exact-active-class="active" class="nav-link " aria-current="page" >Contact Us </router-link>
 					</li>	
 				</ul>
 				

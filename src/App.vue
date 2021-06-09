@@ -11,6 +11,9 @@
 *{
   font-family: 'Montserrat', sans-serif;
 }
+a{
+  text-decoration: none !important;
+}
 a:hover{
 	text-decoration: none;
 	color: #FFD700;
