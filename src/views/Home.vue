@@ -8,7 +8,7 @@
             <div class="input-group mb-3">
               <select class="form-control">
                 <option>Select A Location</option>
-                <option value="Abia">Abia</option>
+                <option value="Abia">Abuja</option>
               </select>
               <span class="input-group-text">
                 <i class="fas fa-search"></i>
@@ -520,7 +520,7 @@
           <div class="col-md-4  mb-4">
             <div class="shadow city">
               <div class="city-div">
-                <h1>Aba</h1>
+                <h1>Abuja</h1>
                 <h5>1000+ Listings</h5>
               </div>
             </div>
@@ -528,7 +528,7 @@
           <div class="col-md-4  mb-4">
             <div class="shadow city">
               <div class="city-div">
-                <h1>Aba</h1>
+                <h1>Abuja</h1>
                 <h5>1000+ Listings</h5>
               </div>
             </div>
@@ -536,7 +536,7 @@
           <div class="col-md-4  mb-4">
             <div class="shadow city">
               <div class="city-div">
-                <h1>Aba</h1>
+                <h1>Abuja</h1>
                 <h5>1000+ Listings</h5>
               </div>
             </div>
@@ -544,21 +544,21 @@
           <div class="col-md-4  mb-4">
             <div class="shadow city">
               <div class="city-div">
-                <h1>Aba</h1>
+                <h1>Abuja</h1>
                 <h5>1000+ Listings</h5>
               </div>
             </div>
           </div><div class="col-md-4  mb-4">
             <div class="shadow city">
               <div class="city-div">
-                <h1>Aba</h1>
+                <h1>Abuja</h1>
                 <h5>1000+ Listings</h5>
               </div>
             </div>
           </div><div class="col-md-4  mb-4">
             <div class="shadow city">
               <div class="city-div">
-                <h1>Aba</h1>
+                <h1>Abuja</h1>
                 <h5>1000+ Listings</h5>
               </div>
             </div>
