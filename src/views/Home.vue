@@ -385,7 +385,7 @@
           <div class="col-md-4  mb-4">
             <div class="shadow city">
               <div class="city-div">
-                <h1>Aba</h1>
+                <h1>Abuja</h1>
                 <h5>1000+ Listings</h5>
               </div>
             </div>
@@ -393,7 +393,7 @@
           <div class="col-md-4  mb-4">
             <div class="shadow city">
               <div class="city-div">
-                <h1>Aba</h1>
+                <h1>Abuja</h1>
                 <h5>1000+ Listings</h5>
               </div>
             </div>
@@ -401,7 +401,7 @@
           <div class="col-md-4  mb-4">
             <div class="shadow city">
               <div class="city-div">
-                <h1>Aba</h1>
+                <h1>Abuja</h1>
                 <h5>1000+ Listings</h5>
               </div>
             </div>
