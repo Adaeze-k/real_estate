@@ -30,7 +30,7 @@
                 <img src="@/assets/bg.jpg" class="img-fluid">  
               </div>
               <div class="p-2">
-                <h6 class="font-weight-bold  title my-3">Luxury 2 Bedroom Apartment</h6>
+                <h6 class="font-weight-bold  title my-3">Luxury 1 Bedroom Apartment</h6>
                 <h6 class="title">
                   <i class="fas fa-map-marker-alt me-2"></i>Benin-Sapele Road, Benin City, Edo State...
                 </h6>
@@ -43,10 +43,13 @@
                    
                   </h6>
                 </div>
-                
+                <router-link to="/view-property">
                 <div class="d-grid gap-2">
-                  <button class="btn btn-orange  btn-sm">Full Details </button>
+                  
+                    <button class="btn btn-orange  btn-sm">Full Details </button>
+                  
                 </div>
+                </router-link>
                 
               </div>
               
