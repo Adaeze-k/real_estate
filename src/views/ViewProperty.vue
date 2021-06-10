@@ -1,8 +1,8 @@
 <template>
   <div >
-      <div class="intro">
+      <!--<div class="intro">
         <h3>For Sale: WATERFRONT 5 BEDROOM FULLY DETACHED DUPLEX WITH SWIMMING POOL</h3>
-      </div>
+      </div> -->
       <div class="container">
         <div class="slider-div">
         
